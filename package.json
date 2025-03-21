@@ -10,6 +10,7 @@
     "seed": "ts-node scripts/seed.ts"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
     "mongoose": "^8.12.1",
     "next": "15.2.3",
     "react": "^19.0.0",
